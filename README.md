@@ -20,6 +20,7 @@ https://emscripten.org/docs/getting_started/downloads.html
 `emrun index.html`
 
 5. 🕹Use the arrow keys to move the texture around.
+<br/>
 
 <img width="640" alt="screen" src="https://user-images.githubusercontent.com/3165988/57870831-c38f0d80-77bc-11e9-9b37-19b64d8f22a7.png">
 
