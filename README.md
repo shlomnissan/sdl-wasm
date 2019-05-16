@@ -19,9 +19,11 @@ https://emscripten.org/docs/getting_started/downloads.html
 4. Chrome doesn't support file XHR requests so you need to open index.html from a web server. You can use Emscripten for that too: 
 `emrun index.html`
 
+5. 🕹 Use the arrow keys to move the blue square around.
+
 ## Todos:
 
-- [ ] Add keyboard input controls to move the square around
+- [x] Add keyboard input controls to move the square around
 - [ ] Include SDL_Image and render a texture instead of the blue square
 
 ## MIT license:
