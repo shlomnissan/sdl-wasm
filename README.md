@@ -10,7 +10,7 @@ Live demo: https://shlomnissan.github.io/sdl-wasm
 https://emscripten.org/docs/getting_started/downloads.html
 
 2. Clone the repository:<br/>
-`git clone https://github.com/timhutton/opengl-canvas-wasm.git`<br/>
+`git clone https://github.com/shlomnissan/sdl-wasm`<br/>
 `cd sdl-wasm`
 
 3. Run `make` or build manually:<br/>
