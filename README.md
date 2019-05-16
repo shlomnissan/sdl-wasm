@@ -19,7 +19,7 @@ https://emscripten.org/docs/getting_started/downloads.html
 4. Chrome doesn't support file XHR requests so you need to open index.html from a web server. You can use Emscripten for that too: 
 `emrun index.html`
 
-5. 🕹 Use the arrow keys to move the texture around.
+<img width="666" alt="Screen Shot 2019-05-16 at 9 23 14 AM" src="https://user-images.githubusercontent.com/3165988/57870623-524f5a80-77bc-11e9-9b78-692cbd632c6e.png">
 
 ## Todos:
 
